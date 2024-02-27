@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋,  I am Muhammed Ali TÜRK
+#### Control and Automation Engineering
+I'm an undergraduate student who is talented and continues to improve himself in Mobile Application Development, Automation Systems, IoT, PLC Programming and Embedded System Development.
 
-<!--
-**muhammedaliturk/muhammedaliturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I am currently developing the mobile application of the SODSİS project, which is an agricultural automation system.
+ 
+🚀 Developing an automatic parking assistant for cars and developing a controller for rockets that take off and land vertically are among my future goals.
 
-Here are some ideas to get you started:
+📧 Contact: ali.turk@std.yildiz.edu.tr.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: java/c/c++/c#/esp8266/OMRON/PC WORX
+
+- 🔭 I’m currently working on this page. 
+- ⚡ Fun fact: DSF 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhammedaliturk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SDF/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedaliturk&show_icons=true)  
+

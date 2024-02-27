@@ -10,11 +10,9 @@ I'm an undergraduate student who is talented and continues to improve himself in
 
 Skills: java/c/c++/c#/esp8266/OMRON/PC WORX
 
-- 🔭 I’m currently working on this page. 
-- ⚡ Fun fact: DSF 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhammedaliturk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/SDF/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhammedaliturk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammed-ali-türk-b4a113228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/im.aliturkk/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedaliturk&show_icons=true)  
 
